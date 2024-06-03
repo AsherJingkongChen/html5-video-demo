@@ -2,7 +2,7 @@
 
 ## Run
 
-1. Install a bulk of packages
+1. Install a bunch of packages
 
     ```shell
     pip install -Ur requirements.txt
